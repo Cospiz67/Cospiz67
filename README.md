@@ -1,7 +1,5 @@
-## Hi there 👋
-
-# 💫 About Me:
-Computer science student at EPITA<br>Enjoying building projects<br>Autonomous, curious and eager to learn !<br><br>
+# Hi there 👋
+I am a computer science student at EPITA<br>I enjoy building projects<br>Autonomous, curious and eager to learn !<br><br>
 
 
 # 💻 Tech Stack:
